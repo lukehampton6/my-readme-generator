@@ -9,6 +9,7 @@ A command-line application that prompts the user for information and generates a
 ## Installation
 ---
 Install node.js, then download the packages and run the index.js file in the command-line.
+https://drive.google.com/file/d/1uQKohyV8fTtEn0-L7U71hLNEkxpDCGVT/view
 
 ## Questions
 ---
